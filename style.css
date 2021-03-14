@@ -1,6 +1,22 @@
+body {
+    background-color: rgb(189, 228, 225);
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
 .header {
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 5px;
+    color: rgb(32, 11, 223);
 }
-.navbar {
-    color:red;
+.list-group  {
+    color: rgb(28, 32, 31);
 }
